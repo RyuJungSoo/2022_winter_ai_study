@@ -12,10 +12,10 @@ matplotlib 참고 사이트 (https://wikidocs.net/4763)
 
 경사 하강법
 ------------------------------------------------
-미분 기울기를 이용하여 오차를 줄여나가는 법 - [경사 하강법](https://github.com/RyuJungSoo/2022_winter_aistudy/tree/main/4%EC%9E%A5%20%EA%B2%BD%EC%82%AC%20%ED%95%98%EA%B0%95%EB%B2%95)
+미분 기울기를 이용하여 오차를 줄여나가는 방법 - [경사 하강법](https://github.com/RyuJungSoo/2022_winter_aistudy/tree/main/4%EC%9E%A5%20%EA%B2%BD%EC%82%AC%20%ED%95%98%EA%B0%95%EB%B2%95)
 
 로지스틱 회귀
 -------------------------------------------------
-예, 아니오 처럼 이진 분류(Binary Classification) 문제를 해결할 때 사용하는 법 - [로지스틱 회귀](https://github.com/RyuJungSoo/2022_winter_aistudy/tree/main/5%EC%9E%A5%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80)
+예, 아니오 처럼 이진 분류(Binary Classification) 문제를 해결할 때 사용하는 방법 - [로지스틱 회귀](https://github.com/RyuJungSoo/2022_winter_aistudy/tree/main/5%EC%9E%A5%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80)
                               
-세 개 이상의 선택지 중 하나를 고르는 문제(다중 클래스 분류)를 해결할 때 사용하는 법 - 소프트맥스
+세 개 이상의 선택지 중 하나를 고르는 문제(다중 클래스 분류)를 해결할 때 사용하는 방법 - 소프트맥스
