@@ -1,7 +1,8 @@
 2022_winter_ai_study
 ===============================
 [스마클 겨울방학 딥러닝 스터디 리포지토리](https://github.com/sejongsmarcle/2022_Winter_AiStudy)            
-교재: [모두의 딥러닝(길벗)](https://thebook.io/080228/)                         
+교재: [모두의 딥러닝(길벗)](https://thebook.io/080228/)
+[교재 github](https://github.com/taehojo/deeplearning-for-everyone-2nd)
 [matplotlib 참고 사이트](https://wikidocs.net/4763)
 
 선형 회귀
